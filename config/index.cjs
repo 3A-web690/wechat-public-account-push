@@ -19,9 +19,9 @@ const USER_CONFIG = {
   USERS: [
     {
       // 想要发送的人的名字
-      name: '测试名字',
+      name: '林炜杰',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'o50nx7PZOUm2TW1rrUiBU6YHplmg',
+      id: 'o50nx7Hom_iRtYfop070EA_4BGcs',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: '	b8i30wUwcjBLyxA1wC5-0Wgx6Skb4L5zgjF8_c70clQ',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
@@ -55,7 +55,7 @@ const USER_CONFIG = {
 
   CALLBACK_USERS: [
     {
-      name: '自己',
+      name: '开发者',
       // 使用微信测试号：自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'o50nx7PZOUm2TW1rrUiBU6YHplmg',
     }
